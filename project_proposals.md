@@ -12,7 +12,7 @@ Last week, on Friday, December 2, 2016 - many colleagues and friends expressed t
     - Accidents
     - Route Changes
     - Traffic Speeds
-* Tax Cab pickup times
+* Taxi Cab pickup times
 * Uber pickup times (if available)
 * CitiBike logs
 * MTA timing information
